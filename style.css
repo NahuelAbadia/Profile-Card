@@ -114,3 +114,18 @@ body{
     height:30px;
     background:#bbb;
 }
+
+/* .btn{
+    display:flex;
+    padding:12px 50px;
+    color:#e66767;
+    background:#2c3a47;
+    border:2px solid #e66767;
+    border-radius:6px;
+    margin-top:16px;
+    transition: .3s linear;
+}
+.btn:hover{
+    background:#e66767;
+    color:#f2f2f2;
+} */
